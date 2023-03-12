@@ -1,0 +1,30 @@
+.home-bg {
+  height: 100vh;
+  background-color: black;
+  padding: 40px;
+}
+.add-button {
+  background-color: transparent;
+  color: #16d3be;
+  border-top: 10px;
+  border-left: 10px;
+  border-width: 2px;
+  border-color: #16d3be;
+  padding: 8px;
+  width: 100px;
+  margin-top: 20px;
+  font-family: roboto;
+  font-size: 15px;
+  font-weight: lighter;
+}
+li {
+  color: whitesmoke;
+  list-style-type: none;
+}
+ul {
+  padding-left: 0px;
+}
+.question {
+  color: wheat;
+  margin-top: 10px;
+}
